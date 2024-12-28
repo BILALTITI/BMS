@@ -1,0 +1,15 @@
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\business Layer\obj\Debug\business Layer.csproj.AssemblyReference.cache
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\business Layer\obj\Debug\business Layer.csproj.CoreCompileInputs.cache
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\business Layer\bin\Debug\business Layer.dll
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\business Layer\bin\Debug\business Layer.pdb
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\business Layer\bin\Debug\DataAccsesLayer.dll
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\business Layer\bin\Debug\DataAccsesLayer.pdb
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\business Layer\obj\Debug\business.7A56890F.Up2Date
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\business Layer\obj\Debug\business Layer.dll
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\business Layer\obj\Debug\business Layer.pdb
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\business Layer\bin\Debug\myfirstclasslibrary.dll
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\business Layer\bin\Debug\myfirstclasslibrary.pdb
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\business Layer\business Layer\obj\Debug\business Layer.csproj.AssemblyReference.cache
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\business Layer\business Layer\obj\Debug\business Layer.csproj.CoreCompileInputs.cache
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\business Layer\business Layer\obj\Debug\business Layer.dll
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\business Layer\business Layer\obj\Debug\business Layer.pdb

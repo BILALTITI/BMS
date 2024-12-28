@@ -1,0 +1,75 @@
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Bank Project\obj\Debug\Bank Project.csproj.AssemblyReference.cache
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Bank Project\obj\Debug\Bank_Project.frmMain.resources
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Bank Project\obj\Debug\Bank_Project.Properties.Resources.resources
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Bank Project\obj\Debug\Bank Project.csproj.GenerateResource.cache
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Bank Project\obj\Debug\Bank Project.csproj.CoreCompileInputs.cache
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Bank Project\bin\Debug\Bank Project.exe.config
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Bank Project\bin\Debug\Bank Project.exe
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Bank Project\bin\Debug\Bank Project.pdb
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Bank Project\bin\Debug\business Layer.dll
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Bank Project\bin\Debug\DataAccsesLayer.dll
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Bank Project\bin\Debug\business Layer.pdb
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Bank Project\bin\Debug\DataAccsesLayer.pdb
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Bank Project\obj\Debug\Bank Pro.D4F6370F.Up2Date
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Bank Project\obj\Debug\Bank Project.exe
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Bank Project\obj\Debug\Bank Project.pdb
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Bank Project\obj\Debug\Bank_Project.frmDashBoard.resources
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Bank Project\obj\Debug\Bank_Project.frmUser.resources
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Bank Project\obj\Debug\Bank_Project.frmAddnewUser.resources
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Bank Project\obj\Debug\Bank_Project.frmPeople.resources
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Bank Project\obj\Debug\Bank_Project.frmAddnewPerson.resources
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Bank Project\bin\Debug\myControlsLibrary.pdb
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Bank Project\obj\Debug\Bank_Project.ctrlPersoncard.resources
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Bank Project\obj\Debug\Bank_Project.frmClientcsList.resources
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Bank Project\obj\Debug\Bank_Project.ctrlPersonWithFiltter.resources
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Bank Project\obj\Debug\Bank_Project.frmAddnewClient.resources
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Bank Project\obj\Debug\Bank_Project.ShowCLientInfo.resources
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Bank Project\obj\Debug\Bank_Project.frmDeposit.resources
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Bank Project\obj\Debug\Bank_Project.frmTransaction.resources
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Bank Project\obj\Debug\Bank_Project.frmWithdraw.resources
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Bank Project\obj\Debug\Bank_Project.ctrlUserInfo.resources
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Bank Project\obj\Debug\Bank_Project.frmUserinfo.resources
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Bank Project\obj\Debug\Bank_Project.frmTransfer.resources
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Bank Project\obj\Debug\Bank_Project.frmTransactionList.resources
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Bank Project\obj\Debug\Bank_Project.frmLogin.resources
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Bank Project\obj\Debug\Bank_Project.FrmLoginLogs.resources
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Bank Project\obj\Debug\Bank_Project.frmShowInfo.resources
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Bank Project\obj\Debug\Bank_Project.frmProfile.resources
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\Bank Project\obj\Debug\Bank_Project.ChangePassword.resources
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\bin\Debug\Bank Project.exe.config
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\bin\Debug\Bank Project.exe
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\bin\Debug\Bank Project.pdb
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\bin\Debug\business Layer.dll
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\bin\Debug\DataAccsesLayer.dll
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\bin\Debug\business Layer.pdb
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\bin\Debug\DataAccsesLayer.pdb
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\obj\Debug\Bank Project.csproj.AssemblyReference.cache
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\obj\Debug\Bank_Project.ChangePassword.resources
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\obj\Debug\Bank_Project.ctrlPersoncard.resources
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\obj\Debug\Bank_Project.ctrlPersonWithFiltter.resources
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\obj\Debug\Bank_Project.ctrlUserInfo.resources
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\obj\Debug\Bank_Project.frmAddnewClient.resources
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\obj\Debug\Bank_Project.frmClientcsList.resources
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\obj\Debug\Bank_Project.frmAddnewPerson.resources
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\obj\Debug\Bank_Project.frmDeposit.resources
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\obj\Debug\Bank_Project.frmLogin.resources
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\obj\Debug\Bank_Project.FrmLoginLogs.resources
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\obj\Debug\Bank_Project.frmPeople.resources
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\obj\Debug\Bank_Project.frmProfile.resources
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\obj\Debug\Bank_Project.frmShowInfo.resources
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\obj\Debug\Bank_Project.frmTransaction.resources
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\obj\Debug\Bank_Project.frmTransactionList.resources
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\obj\Debug\Bank_Project.frmTransfer.resources
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\obj\Debug\Bank_Project.frmUserinfo.resources
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\obj\Debug\Bank_Project.frmWithdraw.resources
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\obj\Debug\Bank_Project.ShowCLientInfo.resources
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\obj\Debug\Bank_Project.frmAddnewUser.resources
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\obj\Debug\Bank_Project.frmDashBoard.resources
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\obj\Debug\Bank_Project.frmMain.resources
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\obj\Debug\Bank_Project.frmUser.resources
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\obj\Debug\Bank_Project.Properties.Resources.resources
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\obj\Debug\Bank Project.csproj.GenerateResource.cache
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\obj\Debug\Bank Project.csproj.CoreCompileInputs.cache
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\obj\Debug\Bank Pro.D4F6370F.Up2Date
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\obj\Debug\Bank Project.exe
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\obj\Debug\Bank Project.pdb

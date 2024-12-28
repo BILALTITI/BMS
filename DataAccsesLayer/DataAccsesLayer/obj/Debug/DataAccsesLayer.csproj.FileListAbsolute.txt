@@ -1,0 +1,12 @@
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\DataAccsesLayer\obj\Debug\DataAccsesLayer.csproj.AssemblyReference.cache
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\DataAccsesLayer\obj\Debug\DataAccsesLayer.csproj.CoreCompileInputs.cache
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\DataAccsesLayer\bin\Debug\DataAccsesLayer.dll
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\DataAccsesLayer\bin\Debug\DataAccsesLayer.pdb
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\DataAccsesLayer\obj\Debug\DataAccsesLayer.dll
+C:\Users\0ol\OneDrive\Bureaublad\programming\c++ project\OOP IN C#\DataAccsesLayer\obj\Debug\DataAccsesLayer.pdb
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\DataAccsesLayer\DataAccsesLayer\bin\Debug\DataAccsesLayer.dll
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\DataAccsesLayer\DataAccsesLayer\bin\Debug\DataAccsesLayer.pdb
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\DataAccsesLayer\DataAccsesLayer\obj\Debug\DataAccsesLayer.csproj.AssemblyReference.cache
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\DataAccsesLayer\DataAccsesLayer\obj\Debug\DataAccsesLayer.csproj.CoreCompileInputs.cache
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\DataAccsesLayer\DataAccsesLayer\obj\Debug\DataAccsesLayer.dll
+C:\Users\0ol\OneDrive\Bureaublad\Bank Project\DataAccsesLayer\DataAccsesLayer\obj\Debug\DataAccsesLayer.pdb
